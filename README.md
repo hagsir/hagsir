@@ -1,5 +1,6 @@
 ## Olá, meu nome é João Pedro.
- #### Sou estudante no Instituto Federal do Maranhão (IFMA), onde estou cursando Sistemas de Informação.#### Gosto de resolver problemas lógicos e estudar Arch linux.
+ #### Sou estudante no Instituto Federal do Maranhão (IFMA), onde estou cursando Sistemas de Informação.
+ #### Gosto de resolver problemas lógicos e estudar Arch linux.
  <div>
 	<a href="https://beacons.ai/hagsir">
 	<img height=180em" src="https://github-readme-stats.vercel.app/api?username=hagsir&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
