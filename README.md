@@ -5,17 +5,14 @@
 <div>
 	<a href="https://beacons.ai/hagsir">
 	<img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagsir&layout=compact&langs_count=16&theme=dark"/> 
+	<img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+	<img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+	<img height=70em" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" /> 
+
 </div>
 		
 ## 
 
-<div style="display: inline_block"><br/>
-        <img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-        <img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-	<img height=70em" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" /> 
-        <img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
-
 ![ezgif com-resize](https://github.com/hagsir/hagsir/assets/83050781/de088324-0ef7-4351-af80-77c92ffe7225)
 
-[Duvet](https://www.youtube.com/watch?v=QmnFNmv6bv4)
