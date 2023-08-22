@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![guts](https://github.com/hagsir/hagsir/assets/83050781/ebffcd14-a62f-4224-aa6c-bcf29dc0ae6d)
+
+![646dfb2c927bb48fa374bf2c_ezgif com-optimize](https://github.com/hagsir/hagsir/assets/83050781/a72c7770-af20-4a77-bed2-c52a271bef04)
