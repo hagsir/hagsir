@@ -1,6 +1,6 @@
 # Olá, meu nome é João Pedro.
 [![Instagram](	https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jprbrasil)
-[![Discord](	https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=instagram&logoColor=white)](https://discordapp.com/users/1077768888068091904)
+[![Discord](	https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1077768888068091904)
 
 <div>
 	<a href="https://beacons.ai/hagsir">
