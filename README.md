@@ -1,8 +1,21 @@
-## Olá, meu nome é João Pedro.
- #### Sou estudante no Instituto Federal do Maranhão (IFMA), onde estou cursando Sistemas de Informação.
- #### Gosto de resolver problemas lógicos e estudar Arch linux.
- <div>
+# Olá, meu nome é João Pedro.
+[![Instagram](	https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jprbrasil)
+[![Discord](	https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=instagram&logoColor=white)](https://discordapp.com/users/1077768888068091904)
+
+<div>
 	<a href="https://beacons.ai/hagsir">
 	<img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagsir&layout=compact&langs_count=16&theme=dark"/> 
 </div>
-![ezgif com-resize](https://github.com/hagsir/hagsir/assets/83050781/63a2bf7e-fc50-4d65-b58c-80059f5de806)
+		
+## 
+
+<div style="display: inline_block"><br/>
+        <img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        <img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+	<img height=70em" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" /> 
+        <img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
+![ezgif com-resize](https://github.com/hagsir/hagsir/assets/83050781/de088324-0ef7-4351-af80-77c92ffe7225)
+
+https://www.youtube.com/watch?v=QmnFNmv6bv4
