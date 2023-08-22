@@ -11,6 +11,13 @@
 	<img height=70em" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" /> 
 
 </div>
+
+<div>
+	<img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+	<img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img height=70em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+	<img height=70em" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" /> 
+</div>
 		
 ## 
 
