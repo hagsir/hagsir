@@ -5,7 +5,7 @@
 
 <div>
 	<a href="https://beacons.ai/hagsir">
-	<img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagsir&layout=compact&langs_count=16&theme=dark"/> 
+	<img height=180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hagsir&layout=compact&langs_count=16&theme=dark"/> 
 
 </div>
  
